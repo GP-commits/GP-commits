@@ -9,8 +9,8 @@
 - I’m currently learning **Kotlin,Node.js and Java** <p align="right"><img src="https://github.com/user-attachments/assets/5db7bbc6-6b72-4297-a07c-27a6db3683ef"
  alt="Alt text" width="50" height="50"></p>
 
-- All of my projects are available at no where because i lost my old github profile and mail😭
-
+- All of my projects are available at no-where because i lost my old github profile and mail😭
+- Studying in CUSAT 1st year CSE 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sivadarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivadarsh" height="30" width="40" /></a>
