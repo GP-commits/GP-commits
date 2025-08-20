@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivadarsh</h1>
 <h3 align="center">I live to create video games—it's what I love to do as a developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gp-commits" alt="gp-commits" /></a> </p>
-
 - I'm in the process of building [Clash of Cusat](https://github.com/GP-commits/Clash-of-Cusat)
 
 - I’m currently learning **Kotlin,Node.js and Java**
