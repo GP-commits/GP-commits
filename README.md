@@ -1,5 +1,5 @@
 ><p align="right"><img src="https://github.com/user-attachments/assets/5db7bbc6-6b72-4297-a07c-27a6db3683ef"
- alt="Alt text" width="50" height="50"></p><h1 align="center">Sup Homies, I'm Shivadarsh</h1
+ alt="Alt text" width="50" height="50"></p><h1 align="center">Sup Homies, I'm Shivadarsh</h1>
 <h3 align="center">I live to create video games—it's what I love to do as a developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gp-commits&label=Profile%20views&color=0e75b6&style=flat" alt="gp-commits" /> </p>
