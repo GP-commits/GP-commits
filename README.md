@@ -7,7 +7,7 @@
 
 - I’m currently learning **Kotlin,Node.js and Java**
 
-- All of my projects are available at [no where because i lost my old github profile and mail😭](no where because i lost my old github profile and mail😭)
+- All of my projects are available at no where because i lost my old github profile and mail😭
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
