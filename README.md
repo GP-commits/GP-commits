@@ -1,7 +1,7 @@
-<h1 align="center">Sup homies, I'm Shivadarsh</h1>
-<h3 align="center">I live to create video games—it's what I love to do as a developer.</h3>![samurai1](https://github.com/user-attachments/assets/94458482-8e92-4d3c-aa9b-b65963ab822d)
+<h1 align="center">Hi 👋, I'm Shivadarsh</h1>
+<h3 align="center">I live to create video games—it's what I love to do as a developer.</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gp-commits&label=Profile%20views&color=0e75b6&style=flat" alt="gp-commits" /> </p>
 
 - I'm in the process of building [Clash of Cusat](https://github.com/GP-commits/Clash-of-Cusat)
 
@@ -22,4 +22,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gp-commits&show_icons=true&locale=en&layout=compact" alt="gp-commits" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gp-commits&" alt="gp-commits" /></p>
+
 
