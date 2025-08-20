@@ -1,5 +1,5 @@
 <h1 align="center">Sup homies, I'm Shivadarsh</h1>
-<h3 align="center">I live to create video games—it's what I love to do as a developer.</h3><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e43b5666-f486-4844-92e7-64ae9a16eca6" />
+<h3 align="center">I live to create video games—it's what I love to do as a developer.</h3><img width="50" height="50" alt="image" src=https://images.app.goo.gl/qEaDXTN2KXLw3rhR8" />
 
 
 - I'm in the process of building [Clash of Cusat](https://github.com/GP-commits/Clash-of-Cusat)
