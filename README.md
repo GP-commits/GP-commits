@@ -1,5 +1,6 @@
 <h1 align="center">Sup homies, I'm Shivadarsh</h1>
 <h3 align="center">I live to create video games—it's what I love to do as a developer.</h3>
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/48acbeaf-7b43-45dd-9456-f056add1044c" />
 
 - I'm in the process of building [Clash of Cusat](https://github.com/GP-commits/Clash-of-Cusat)
 
@@ -20,3 +21,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gp-commits&show_icons=true&locale=en&layout=compact" alt="gp-commits" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gp-commits&" alt="gp-commits" /></p>
+
