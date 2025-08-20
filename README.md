@@ -1,10 +1,10 @@
-<h1 align="center">Sup Homies, I'm Shivadarsh</h1>
+<h1 align="center">Sup Homies, I'm Shivadarsh</h1><p align="right"><img src="https://github.com/user-attachments/assets/5db7bbc6-6b72-4297-a07c-27a6db3683ef"
+ alt="Alt text" width="100" height="100"></p>
 <h3 align="center">I live to create video games—it's what I love to do as a developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gp-commits&label=Profile%20views&color=0e75b6&style=flat" alt="gp-commits" /> </p>
 
-- I'm in the process of building [Clash of Cusat](https://github.com/GP-commits/Clash-of-Cusat) <p align="right"><img src="https://github.com/user-attachments/assets/5db7bbc6-6b72-4297-a07c-27a6db3683ef"
- alt="Alt text" width="100" height="100"></p>
+- I'm in the process of building [Clash of Cusat](https://github.com/GP-commits/Clash-of-Cusat) 
 
 
 - I’m currently learning **Kotlin,Node.js and Java**
