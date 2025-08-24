@@ -10,7 +10,7 @@
  alt="Alt text" width="50" height="50"></p>
 
 - All of my projects are available at no-where because i lost my old github profile and mail😭
-- Studying in CUSAT 1st year CSE 
+- Studying in CUSAT
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sivadarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivadarsh" height="30" width="40" /></a>
