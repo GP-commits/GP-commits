@@ -4,14 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gp-commits&label=Profile%20views&color=0e75b6&style=flat" alt="gp-commits" /> </p>
 
 - I'm in the process of building [Clash of Cusat](https://github.com/GP-commits/Clash-of-Cusat)
-- 
- ,adPPYb,d8 ,adPPYYba, 88,dPYba,,adPYba,   ,adPPYba, ,adPPYba,  
-a8"    `Y88 ""     `Y8 88P'   "88"    "8a a8P_____88 I8[    ""  
-8b       88 ,adPPPPP88 88      88      88 8PP"""""""  `"Y8ba,   
-"8a,   ,d88 88,    ,88 88      88      88 "8b,   ,aa aa    ]8I  
- `"YbbdP"Y8 `"8bbdP"Y8 88      88      88  `"Ybbd8"' `"YbbdP"'  
- aa,    ,88                                                     
-  "Y8bbdP"                                                     
 
 - I’m currently learning **Kotlin,Node.js and Java** <p align="right"><img src="https://github.com/user-attachments/assets/5db7bbc6-6b72-4297-a07c-27a6db3683ef"
  alt="Alt text" width="50" height="50"></p>
