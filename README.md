@@ -20,6 +20,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gp-commits&show_icons=true&locale=en&layout=compact" alt="gp-commits" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gp-commits&" alt="gp-commits" /></p>
+
 
 
