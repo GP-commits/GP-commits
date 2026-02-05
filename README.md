@@ -1,5 +1,3 @@
-[Visit portfolio](https://rotatingchicken.in)
-
 # 🎮 GitHub Maze Game
 
 > A real game.  
