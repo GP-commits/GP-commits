@@ -36,7 +36,7 @@ What began as a personal project quickly grew into a widely used educational res
 
 ### Collegeverse
 
-In 2025, Sivadarsh created CollegeVerse, which has helped many university students build stronger, more meaningful connections through a dedicated networking platform.”.
+In 2025, Sivadarsh created CollegeVerse, which has helped many university students build stronger, more meaningful connections through a dedicated networking platform.
 
 Collegeverse is now the most widely used platform among students.
 
