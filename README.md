@@ -117,6 +117,4 @@ Collegeverse, EduOS
 
 ---
 
-## License
 
-This README is styled after Wikipedia for demonstration purposes.
