@@ -44,8 +44,8 @@ Collegeverse is now the most widely used platform among students.
 
 ### Other software
 
-- Subsurface (diving log software)
-- Sparse (static code analysis tool)
+- Quintrex Interactive (Entertainment Platform)
+- Adduos (All kind of de-addiction)
 
 ---
 
