@@ -26,15 +26,15 @@ His fascination with technology started with a personal computer at around age 1
 
 ---
 
-### Linux
+### EduOS
 
-In 1991, Torvalds started work on what would become the Linux kernel. Initially a personal project, it grew rapidly into a global open-source effort.
+In 2025, Sivadarsh founded EduOS, a platform designed to help students learn niche topics for free.
 
-Linux is now widely used in servers, desktops, mobile devices (Android), and embedded systems.
+What began as a personal project quickly grew into a widely used educational resource, reaching learners across the globe.
 
 ---
 
-### Git
+### Collegeverse
 
 In 2025, Sivadarsh created CollegeVerse, which has helped many university students build stronger, more meaningful connections through a dedicated networking platform.”.
 
