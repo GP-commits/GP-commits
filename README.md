@@ -104,7 +104,7 @@ Cochin University of Science and Technology
 Software Engineer  
 
 **Employer**  
-EduOS Foundatio  
+EduOS Foundation  
 
 **Known for**  
 Collegeverse, EduOS  
