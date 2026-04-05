@@ -72,9 +72,9 @@ Sivadarsh enjoys a contented life, spending his days in a serene farmhouse with 
 
 ## See also
 
-- Linux kernel  
-- Git  
-- Open source software 
+- EduOS  
+- Adduos
+- CollegeVerse
 
 
 ---
