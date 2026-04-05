@@ -89,7 +89,7 @@ Sivadarsh enjoys a contented life, spending his days in a serene farmhouse with 
 
 
 **Born**  
-19 March 2026  
+19 March 2006  
 
 **Location**  
 Kochi, Kerala  
