@@ -104,7 +104,7 @@ Cochin University of Science and Technology
 Software Engineer  
 
 **Employer**  
-Linux Foundation  
+EduOS Foundatio  
 
 **Known for**  
 Collegeverse, EduOS  
