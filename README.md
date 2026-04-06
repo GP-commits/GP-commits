@@ -1,4 +1,4 @@
-# Sivadarsh
+# Shivadarsh
 
 > From Wikipedia, the free encyclopedia
 
@@ -8,7 +8,7 @@
 <tr>
 <td width="70%">
 
-## Sivadarsh P Dinesh
+## Shivadarsh P Dinesh
 
 **Sivadarsh P Dinesh** (born 19 March 2006) is a software engineer with a strong passion for programming. While he has not created any widely known software, he continues to develop his skills through personal projects and learning.
 
@@ -20,7 +20,7 @@ Sivadarsh hasn’t won any shiny trophies yet, but his laptop and coffee mugs ca
 
 ### Early years
 
-Sivadarsh was born in Kochi, Kerala, on 19 March 2006. From a young age, he showed a keen interest in computers and began programming early on.
+Shivadarsh was born in Kochi, Kerala, on 19 March 2006. From a young age, he showed a keen interest in computers and began programming early on.
 
 His fascination with technology started with a personal computer at around age 11. He later pursued computer science at Cochin University, steadily honing his programming skills, though he has yet to achieve any groundbreaking accomplishments.
 
@@ -36,7 +36,7 @@ What began as a personal project quickly grew into a widely used educational res
 
 ### Collegeverse
 
-In 2025, Sivadarsh created CollegeVerse, which has helped many university students build stronger, more meaningful connections through a dedicated networking platform.
+In 2025, Shivadarsh created CollegeVerse, which has helped many university students build stronger, more meaningful connections through a dedicated networking platform.
 
 Collegeverse is now the most widely used platform among students.
 
@@ -51,7 +51,7 @@ Collegeverse is now the most widely used platform among students.
 
 ## Personal life
 
-Sivadarsh enjoys a contented life, spending his days in a serene farmhouse with just his laptop for company.
+Shivadarsh enjoys a contented life, spending his days in a serene farmhouse with just his laptop for company.
 
 ---
 
@@ -83,7 +83,7 @@ Sivadarsh enjoys a contented life, spending his days in a serene farmhouse with 
 
 <td width="30%" valign="top">
 
-###  Sivadarsh
+###  Shivadarsh
 
 <img src="https://github.com/user-attachments/assets/bc499fa5-6860-43a5-bbdd-8cca9781665f" width="100%"/>
 
