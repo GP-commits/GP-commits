@@ -44,7 +44,7 @@ Collegeverse is now the most widely used platform among students.
 
 ### Other software
 
-- Quintrex Interactive (Entertainment Platform)
+- Quintrex Interactive (Videogame Platform)
 - Adduos (All kind of de-addiction)
 
 ---
